@@ -33,7 +33,8 @@
 <body>
 	//깃허브수정테스트
 	<h1>깃허브수정테스트</h1>	
-	<h1>깃허브이클에스수정테스트</h1>
+	<h1>깃허브이클에스adfadsf수정ddd테스트</h1>
+	
 <div id="wrap">
 <!-- 헤더파일들어가는 곳 -->
 <jsp:include page="../inc/top.jsp" />
